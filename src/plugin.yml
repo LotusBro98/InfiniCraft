@@ -1,0 +1,5 @@
+name: InfiniCraft
+version: 0.0.1
+author: LotusBro98
+main: com.lotusgames.infinicraft.Main
+api-version: 1.13
